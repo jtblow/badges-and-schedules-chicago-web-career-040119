@@ -6,5 +6,6 @@ def batch_badge_creator(names)
   names.each do |messages|
     badge_maker
   end
+  end
   
   
